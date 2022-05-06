@@ -1,6 +1,6 @@
 package com.codeliner.cataloguepositron.data.api
 
-import com.codeliner.cataloguepositron.model.CatalogueModel
+import com.codeliner.cataloguepositron.domain.CatalogueModel
 import retrofit2.Response
 import retrofit2.http.GET
 
